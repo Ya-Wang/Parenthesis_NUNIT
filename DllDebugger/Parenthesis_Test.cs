@@ -16,7 +16,7 @@ namespace EGifter_Parenthesis.Tests
             List<bool> results = new List<bool>();
             foreach (var val in values)
                 results.Add(val.IsClosed());
-            Assert.AreEqual(new bool[] { true, true, false, false }, results.ToArray());
+            Assert.AreEqual(new bool[] { true, false, false, false }, results.ToArray());
         }
     }
 }
