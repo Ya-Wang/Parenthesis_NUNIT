@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGifter_Parenthesis", "EGifter_Parenthesis\EGifter_Parenthesis.csproj", "{9B0B9E10-E8A7-4C02-B6A3-B75CE9C1F883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllDebugger", "DllDebugger\DllDebugger.csproj", "{F1630082-149A-46A7-8843-B9B0B57C2B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9B0B9E10-E8A7-4C02-B6A3-B75CE9C1F883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B0B9E10-E8A7-4C02-B6A3-B75CE9C1F883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B0B9E10-E8A7-4C02-B6A3-B75CE9C1F883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1630082-149A-46A7-8843-B9B0B57C2B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1630082-149A-46A7-8843-B9B0B57C2B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1630082-149A-46A7-8843-B9B0B57C2B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1630082-149A-46A7-8843-B9B0B57C2B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
